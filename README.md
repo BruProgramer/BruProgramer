@@ -17,5 +17,4 @@
 
 Apaixonada por tecnologia. A busca pelo conhecimento é infinitita, nunca deixe de buscar!!
 
-## Meios de contato:
-vff
+
