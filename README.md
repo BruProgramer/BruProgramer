@@ -36,6 +36,5 @@
 
 <p align="center">
  <a href="https://github.com/BruProgramer/BruProgramer/edit/main/README.md" target="_blank"><img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  
-  <a href="https://github.com/BruProgramer/BruProgramer/edit/main/README.md" target="_blank"><img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+ <a href="https://github.com/BruProgramer/BruProgramer/edit/main/README.md" target="_blank"><img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
