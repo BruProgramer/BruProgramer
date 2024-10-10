@@ -1,23 +1,42 @@
-# Olá, eu sou a Bruna! 👋
+<h1 align="center">Olá, eu sou a Bruna! 👋</h1>
 
-Seja bem-vindo(a) ao meu perfil no GitHub! Sou uma desenvolvedora fullstack apaixonada por tecnologia, com foco em sistemas web e uma curiosidade crescente por tecnologias acessíveis. Meu objetivo é combinar programação e Libras para criar soluções inclusivas!
+<p align="center">
+  <img src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" alt="Gatinha se mexendo" width="300" height="300"/>
+</p>
 
-- 🌐 Criadora de sites e amante de tecnologias web.
-- 💻 Sempre buscando aprender novas tecnologias e ferramentas.
-- 👾 Atualmente explorando desenvolvimento de aplicativos com reconhecimento de sinais em Libras.
-- 🐱 E uma apaixonada por gatinhos, claro!
+<h3 align="center">Desenvolvedora Fullstack | Apaixonada por Tecnologia e Libras 🖤</h3>
 
-![Gatinha se mexendo](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+</p>
+
+---
+
+## Sobre mim:
+- 🌸 Desenvolvedora fullstack com foco em criar sites modernos e acessíveis.
+- 📱 Trabalhando em um aplicativo que transforma sinais de Libras em texto e vice-versa.
+- 🎨 Amante de design com um toque de cor-de-rosa!
+- 🐾 Gatinhos são a minha paixão!
 
 ---
 
 ## Minhas stacks:
+
 - **Frontend**: HTML, CSS, JavaScript, React
 - **Backend**: Node.js, Express
 - **Banco de dados**: MySQL, MongoDB
 - **Ferramentas**: Git, Docker
 
+---
+
 ### Vamos nos conectar!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu-usuario)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/seu-perfil" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/seu-usuario" target="_blank"><img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://github.com/seu-usuario" target="_blank"><img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
