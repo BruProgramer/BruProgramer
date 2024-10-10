@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou a Bruna! 👋</h1>
 
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODM4d2doZnJjMno0c3czaWk3ZHlyMDQyb20zNWF5YnJmY3I5dHowbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CFcyKeGNHe9I0su0br/giphy.gif" alt="Gatinha se mexendo" width="300" height="300"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWE3aWRlajRoZWE0dmFwYnoxdzVpbHJpcWJhcTB3NnRnanRqdDM1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YV5Pj21ccojmMrHIHU/giphy.gif" alt="Gatinha se mexendo" width="300" height="300"/>
 </p>
 
 <h3 align="center">Desenvolvedora Fullstack | Apaixonada por Tecnologia e Libras 🖤</h3>
