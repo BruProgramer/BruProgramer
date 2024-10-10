@@ -26,10 +26,10 @@
 
 ## Minhas stacks:
 
-- **Frontend**: HTML, CSS, JavaScript, React
-- **Backend**: Node.js, Express
-- **Banco de dados**: MySQL, MongoDB
-- **Ferramentas**: Git, Docker
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: Java e JavaScript
+- **Banco de dados**: MySQL
+- **Ferramentas**: Git
 
 ---
 
